@@ -51,32 +51,12 @@
 
 ### 💻 Tech Stack
 
-**Languages and Frontend**
+
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,nodejs,express,spring,mongodb,mysql,aws,git,github,postman,vscode,vercel,netlify" />
 </p>
 
-**Backend and Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
-</p>
-
-**Cloud, Deployment and Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel,netlify,figma" />
-</p>
-
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, JWT authentication
-- **Mobile:** React Native, Expo
-- **Databases:** MongoDB, MySQL
-- **Java Development:** Java, Spring Boot / MVC fundamentals
-- **Cloud:** AWS, serverless application development
-- **Tools:** Git, GitHub, Postman, VS Code
-- **Deployment:** Vercel, Netlify, AWS Amplify
 
 ### 📚 Currently Learning
 
