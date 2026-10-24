@@ -43,7 +43,12 @@
     <td>AWS, Next.js, TypeScript, Lambda, DynamoDB</td>
   </tr>
   <tr>
-    <td><b>Amazon Clone – Mobile App</b></td>
+    <td><a href="https://master.d2nq61stty97mi.amplifyapp.com"><b>AI Career Copilot</b></a></td>
+    <td>AI-powered career assistant for resume and job description matching, skill-gap analysis, learning recommendations, interview preparation, and application tracking.</td>
+    <td>Next.js, AWS DynamoDB, Amazon Bedrock, Clerk</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RAMKUMAR0096/ram-store-mobile"><b>Amazon Clone – Mobile App</b></a></td>
     <td>Cross-platform shopping application with product listings, search, navigation, and product image galleries.</td>
     <td>React Native, Expo, Node.js, MongoDB</td>
   </tr>
